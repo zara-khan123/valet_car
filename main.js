@@ -93,7 +93,7 @@ function left()
 	if(greencar_y >=0)
 	{
 greencar_x = greencar_x - 10;
-uploadbBackground();
+uploadBackground();
 uploadgreencar();
 	}
 }
